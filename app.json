@@ -1,7 +1,7 @@
 {
-  "name": "levanter@5.2.3",
+  "name": "abromd@5.2.3",
   "description": "",
-  "keywords": ["noedjs"],
+  "keywords": ["nodejs"],
   "success_url": "/",
   "env": {
     "ALWAYS_ONLINE": {
@@ -32,7 +32,7 @@
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "❤️,LyFE"
+      "value": "❤ABROMD"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
